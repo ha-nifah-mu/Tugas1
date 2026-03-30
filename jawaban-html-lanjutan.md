@@ -22,5 +22,5 @@
 5. Bagaimana cara embed video dari YouTube tanpa download?
       menyalin salinan code embed share link video youtube
       - temukan terlebihdahulu video yang anda suka di youtube
-      - klik share dan pilih embed atau semat atau lambang (<>)
+      - klik share dan pilih embed atau sematkan atau lambang (<>)
       - copy code yang di berikan (`<iframe width="...".......>` `</iframe>`
